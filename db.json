@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Azul",
+      "price": 2.49
+    },
+    {
+      "id": 2,
+      "name": "Caneca Dart Vader",
+      "price": 12.99
+    },
+    {
+      "id": 3,
+      "name": "Relógio de Ouro",
+      "price": 1522.55
+    },
+    {
+      "id": 4,
+      "name": "Cachorro",
+      "price": 100
+    }
+  ]
+}
